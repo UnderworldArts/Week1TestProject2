@@ -8,6 +8,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Main GAme.unity
+    guid: b08a5abcf22307e4e8255dbcec7e2f36
+  - enabled: 1
+    path: Assets/Scenes/LouisFolder NO GIRLS ALLOWED (joke)/Character.unity
+    guid: e2cf02dab062e2a49970fbcb80618a5c
+  - enabled: 1
+    path: Assets/Scenes/LouisFolder NO GIRLS ALLOWED (joke)/Secret.unity
+    guid: 731044b41d6cdba44a5690c2e54d1664
+  - enabled: 1
+    path: Assets/Scenes/Maria/UII.unity
+    guid: 130da8e03be15f24fbfe1c8dfddc8abc
+  - enabled: 1
+    path: Assets/Scenes/Nicole/Circle.unity
+    guid: 9bdf95fb3a2da9140861bb0f28dd6229
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
