@@ -532,4 +532,7 @@ Transform:
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
-  m_Roots: []
+  m_Roots:
+  - {fileID: 2138694890}
+  - {fileID: 733425794}
+  - {fileID: 1947219837}
